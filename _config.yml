@@ -10,7 +10,7 @@ relative_permalinks: true
 title:            Catrione Lee
 tagline:          ''
 description:      'M.Sc. Candidate in Bioinformatics and AMR'
-url:              http://catrionelee.github.io
+#url:              http://catrionelee.github.io
 baseurl:          /
 
 author:
