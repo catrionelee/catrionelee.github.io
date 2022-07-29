@@ -9,7 +9,7 @@ permalink:        pretty
 # Setup
 title:            Catrione Lee
 tagline:          'MSc Candidate in Bioinformatics and AMR'
-description:      'Aspiring microbiologist who dabbles in bioinformatics, i.e. all around lover of microbes. MSc Candidate at the University of Lethbridge and Lethbridge Research and Development Centre (AAFC).'
+description:      'MSc Candidate in Bioinformatics and AMR'
 url:              http://catrionelee.github.io
 baseurl:          /
 
@@ -25,4 +25,4 @@ version:          2.1.0
 github:
   repo:           https://github.com/catrionelee/catrionelee.github.io
 
-theme: jekyll-theme-cayman
+#theme: jekyll-theme-cayman
