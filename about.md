@@ -1,30 +1,38 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+I am a Master's in Science candidate studying at the University of Lethbridge in the Department of Chemistry and Biochemistry under the co-supervision of Drs. Tim McAllister and Athanasios Zovoilis. My research is conducted through the Lethbridge Research and Development Centre of Agriculture and Agri-Food Canada (Government of Canada) in the areas of antimicrobial resistance (AMR) and metagenomics.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+<br>
 
-There are currently two themes built on Poole:
+# Education
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+### Master's of Science - <i>in progress</i>
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Biochemistry, University of Lethbridge, <i>Lethbridge, AB, Canada</i>
+<ul>
+  <li>Thesis Title: TBD</li>
+  <li>GPA: 3.85</li>
+</ul>
 
-## Setup
+### Bachelor's of Science - 2021
 
-Some fun facts about the setup of this project include:
+Biological Sciences, University of Lethbridge, <i>Lethbridge, AB, Canada</i>
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+<ul>
+  <li>With Distinction</li>
+  <li>Honour's Thesis</li>
+  <li>Co-operative Education</li>
+  <li>GPA: 3.50</li>
+</ul>
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+<br>
 
-Thanks for reading!
+# Contact me
+
+[University email](mailto:catrione.lee@uleth.ca)
+
+[Government email](mailto:catrione.lee@agr.gc.ca)
