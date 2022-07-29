@@ -8,9 +8,9 @@ permalink:        pretty
 
 # Setup
 title:            Catrione Lee
-tagline:          ''
-description:      'M.Sc. Candidate in Bioinformatics and AMR'
-#url:              http://catrionelee.github.io
+tagline:          'MSc Candidate in Bioinformatics and AMR'
+description:      'Aspiring microbiologist who dabbles in bioinformatics, i.e. all around lover of microbes. MSc Candidate at the University of Lethbridge and Lethbridge Research and Development Centre (AAFC).'
+url:              http://catrionelee.github.io
 baseurl:          /
 
 author:
@@ -25,4 +25,4 @@ version:          2.1.0
 github:
   repo:           https://github.com/catrionelee/catrionelee.github.io
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
