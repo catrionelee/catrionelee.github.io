@@ -10,13 +10,14 @@ title:            Catrione Lee
 tagline:          'M.Sc. Candidate in Bioinformatics and AMR'
 description:      'M.Sc. Candidate in Bioinformatics and AMR'
 url:              https://catrionelee.github.io/
-baseurl:          /catrionelee.github.io
+baseurl:          /
 
 author:
   name:           'Catrione Lee'
   url:            https://twitter.com/CatrioneLee
 
-plugins: [jekyll-paginate]
+plugins: 
+  - jekyll-paginate
 
 paginate:         4
 
