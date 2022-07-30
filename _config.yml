@@ -4,7 +4,6 @@ highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
-relative_permalinks: true
 
 # Setup
 title:            Catrione Lee
@@ -17,7 +16,7 @@ author:
   name:           'Catrione Lee'
   url:            https://twitter.com/CatrioneLee
 
-paginate:         5
+paginate:         4
 
 # Custom vars
 version:          2.1.0
