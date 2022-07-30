@@ -5,7 +5,7 @@ title: Current Research
 
 ## MSc Project
 
-My thesis is concerning the different factors that impact antimicrobial resistance in livestock production system. In a beef cattle feedlot system, how do broad categories of antimicrobial use impact the microbiome, resistome (all resistance genes), and mobliome (all mobile genetic elements)? Then I will look at the different factors present in comparing three livestock production systems to each other (i.e., bovine, swine, and poultry). Can host species account for all differences, if there are any? Or do management practices contribute to the overall microbiome, resistome, and/or mobilome changes?
+My thesis is concerning the different factors that impact antimicrobial resistance in livestock production system. In a beef cattle feedlot system, how do broad categories of antimicrobial use impact the microbiome, resistome (all resistance genes), and mobilome (all mobile genetic elements)? Then I will look at the different factors present in comparing three livestock production systems to each other (i.e., bovine, swine, and poultry). Can host species account for all differences, if there are any? Or do management practices contribute to the overall microbiome, resistome, and/or mobilome changes?
 
 <br>
 
@@ -13,7 +13,7 @@ My thesis is concerning the different factors that impact antimicrobial resistan
 
 ### *Trueperella pyogenes*
 
-*T. pyogenes* has been shown to be associated with the canonical bacterial pathogens of the Bovine Respiratory Disease complex in cattle. So an important question would be if *T. pyogenes* is an important source of antimicrobail resistance genes?
+*T. pyogenes* has been shown to be associated with the canonical bacterial pathogens of the Bovine Respiratory Disease complex in cattle. So an important question would be if *T. pyogenes* is an important source of antimicrobial resistance genes?
 
 <br>
 
