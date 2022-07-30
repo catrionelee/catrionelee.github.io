@@ -250,6 +250,15 @@ a.sidebar-nav-item:focus {
 }
 
 
+/* Yellow-er */
+.theme-base-daniel .sidebar {
+  background-color: #efd127;
+}
+.theme-base-daniel .content a,
+.theme-base-daniel .related-posts li a:hover {
+  color: #efd127;
+}
+
 .center {
   display: block;
   margin-left: auto;
