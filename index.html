@@ -18,7 +18,7 @@ layout: default
             <p class="pinned-article"><b>📌 Pinned Article</b></p>
 
             <h1>
-                <a href="{{ '/' | relative_url }}{{ post.url }}">
+                <a href="{{ post.url }}">
                     {{ post.title }}
                 </a>
             </h1>
@@ -29,7 +29,7 @@ layout: default
                 </p>
             </div>
 
-            <a href="{{ '/' | relative_url }}{{ post.url }}" class="read-more">
+            <a href="{{ post.url }}" class="read-more">
                 Read More ⟶
             </a>
                <br><br>
@@ -66,15 +66,15 @@ layout: default
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ '/' | relative_url }}page{{paginator.next_page}}">Older</a>
+    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
   {% else %}
     <span class="pagination-item older">Older</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ '/' | relative_url }}">Newer</a>
+      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
     {% else %}
-      <a class="pagination-item newer" href="{{ '/' | relative_url }}page{{paginator.previous_page}}">Newer</a>
+      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
     {% endif %}
   {% else %}
     <span class="pagination-item newer">Newer</span>
