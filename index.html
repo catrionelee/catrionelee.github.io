@@ -29,7 +29,7 @@ layout: default
                 </p>
             </div>
 
-            <a href="{{ post.url }}" class="read-more">
+            <a href="{{ '/' | relative_url }}{{ post.url }}" class="read-more">
                 Read More ⟶
             </a>
                <br><br>
@@ -56,7 +56,7 @@ layout: default
       </p>
   </div>
 
-  <a href="{{ '/' | relative_url }}{{ post.url }}" class="read-more">
+  <a href="{{ post.url }}" class="read-more">
       Read More ⟶
   </a>
   </div>
