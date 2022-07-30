@@ -30,11 +30,3 @@ Biological Sciences, University of Lethbridge, <i>Lethbridge, AB, Canada</i>
   <li>Co-operative Education</li>
   <li>GPA: 3.50</li>
 </ul>
-
-<br>
-
-# Contact me
-
-[University email](mailto:catrione.lee@uleth.ca)
-
-[Government email](mailto:catrione.lee@agr.gc.ca)
