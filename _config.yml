@@ -1,5 +1,5 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      pygments
 
 # Permalinks
@@ -15,6 +15,8 @@ baseurl:          /
 author:
   name:           'Catrione Lee'
   url:            https://twitter.com/CatrioneLee
+
+plugins: [jekyll-paginate]
 
 paginate:         4
 
