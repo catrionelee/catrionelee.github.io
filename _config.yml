@@ -6,15 +6,15 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Catrione Lee
-tagline:          'M.Sc. Candidate in Bioinformatics and AMR'
-description:      'M.Sc. Candidate in Bioinformatics and AMR'
+title:            'atrione Lee-Rocca'
+tagline:          'Ph.D. Student in Protein Evolutionary Biology'
+description:      'Personal webpage of Catrione Lee-Rocca. A Ph.D. student studying whale hemoglobin from a mostly land-locked province.'
 url:              https://catrionelee.github.io
 #baseurl:          /
 
-author:
+author:           catrionelee
   name:           'Catrione Lee'
-  url:            https://twitter.com/CatrioneLee
+  url:            
 
 plugins: 
   - jekyll-paginate
