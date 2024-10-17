@@ -4,20 +4,26 @@ title: About
 permalink: /about/
 ---
 
-I am an aspiring microbiologist that dabbles in bioinformatics, so an all around lover of microbes. I use she/they pronouns.
+I am an aspiring microbiologist that dabbles in bioinformatics, so an all around lover of microbes. I use they/them/she/her pronouns.
 
-I am a Master's of Science candidate studying at the University of Lethbridge in the Department of Chemistry and Biochemistry under the co-supervision of Drs. Tim McAllister and Athanasios Zovoilis. My research is conducted through the Lethbridge Research and Development Centre of Agriculture and Agri-Food Canada (Government of Canada) in the areas of antimicrobial resistance (AMR) and metagenomics.
+I am a Ph.D. student sudying the evolution of hemoglobins in whales, dolphins, and porpoises. I am leveraging the availablility of global genomics data to accomplish the goals of resurrecting ansectral whale hemoglobins as well as determine if certain hemoglobin variants might predict different life styles.
 
 <br>
 
 # Education
 
-### Master's of Science - <i>in progress</i>
+### Doctorate of Philosophy - <i>in progress</i>
+
+Biological Sciences, University of Manitoba, <i>Winnipeg, MMB</i>
+<ul>
+    Area of Research: Whale hemoglobin evolution and ancestral reconstruction
+</ul>
+
+### Master's of Science - 2023
 
 Biochemistry, University of Lethbridge, <i>Lethbridge, AB, Canada</i>
 <ul>
-  <li>Thesis Title: TBD</li>
-  <li>GPA: 3.85</li>
+  <li>Thesis Title:  Comparative metagenomics in livestock production antimicrobial resistance</li>
 </ul>
 
 ### Bachelor's of Science - 2021
