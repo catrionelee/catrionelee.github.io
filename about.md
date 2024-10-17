@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am an aspiring microbiologist that dabbles in bioinformatics, so an all around lover of microbes. I use they/them/she/her pronouns.
+I am an aspiring microbiologist that dabbles in bioinformatics, so an all around lover of microbes. Although, I've been recently been told I am a <i>marine biologist</i>: I study the protein biology of marine mammals, so ... they aren't wrong. I use they/them/she/her pronouns.
 
 I am a Ph.D. student sudying the evolution of hemoglobins in whales, dolphins, and porpoises. I am leveraging the availablility of global genomics data to accomplish the goals of resurrecting ansectral whale hemoglobins as well as determine if certain hemoglobin variants might predict different life styles.
 
@@ -32,7 +32,6 @@ Biological Sciences, University of Lethbridge, <i>Lethbridge, AB, Canada</i>
 
 <ul>
   <li>With Distinction</li>
-  <li>Honour's Thesis: Characterizing Metagenomic Resistomes <i>in silico</i> for Agricultural and Environmental Microbiomes</li>
+  <li>Honour's Thesis: Characterizing metagenomic resistomes <i>in silico</i> for agricultural and environmental microbiomes</li>
   <li>Co-operative Education</li>
-  <li>GPA: 3.50</li>
 </ul>
