@@ -1,8 +1,8 @@
 ---
-title: New silicon-based amino acids
+title: New Silicon-Based Amino Acids
 date: 2022-07-31
 categories: [Blog]
-tags: [newresearch]
+tags: [new research]
 ---
 
 Today, a paper was published entitled, "[Silicon Analogs of L-Amino Acids: Properties of Building Blocks of an Alien Biosphere](https://link.springer.com/article/10.1134/S0006350922020117)," which is very exciting. Silicon is in the same group as carbon so it has the same number of valence electrons. This means, chemically, it behaves similarly though not exactly as carbon (what Earth's major biomolecules are made of). The paper used "PM3/PM7 semi-empirical quantum-chemical methods" to calculate all of the theoretical chemical properties of an L-amino acid with silicon.
