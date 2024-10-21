@@ -1,5 +1,5 @@
 ---
-title: Thought Experiment: What would a genetic molecule look like if it had 3 strands?
+title: Thought Experiment - What would a genetic molecule look like if it had 3 strands?
 date: 2021-10-13
 categories: [Blog]
 tags: [thought experiment]
