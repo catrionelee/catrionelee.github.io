@@ -1,7 +1,11 @@
 ---
-layout: post
 title: Greetings!
-tags: pinned
+date: 2021-10-13
+categories: [Blog]
+tags: [updates]
+pin: true
+math: true
+mermaid: true
 ---
 
 Greetings! My name is Catrione Lee and I thank you for taking the time to view my website. This site will function as a portfolio of sorts and a chance to promote my current research.

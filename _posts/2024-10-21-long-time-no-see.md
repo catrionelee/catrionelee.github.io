@@ -1,9 +1,14 @@
 ---
-layout: post
-title: "Long Time No See: Updates"
+title: Long Time, No See
+date: 2024-10-21
+categories: [Blog]
+tags: [updates]
+pin: true
+math: true
+mermaid: true
 ---
 
-Welcome back: to me! During the chunk of my MSc, I took a break from updating this website. But now, starting a new degree I am back at it.
+Welcome back: to myself! During the chunk of my MSc, I took a break from updating this website. But now, starting a new degree I am back at it.
 
 ## What happened from 2022-2024?
 
