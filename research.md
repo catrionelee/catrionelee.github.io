@@ -3,6 +3,12 @@ layout: page
 title: Current Research
 ---
 
+## PhD Project
+
+My project involves investigating the evolution of hemoglobins in the clade Cetacea (whales, porpoises, and dolphins). Through protein sequence homology, I will reconstruct ancestral hemoglobin proteins for extinct species along key phylogenetic branches. Taken together with the 93 extant species, I'll use these resurrected hemoglobins as a basis to predict certain life history traits such as dive physiology and water temperature range. This goal will be achieved through machine-learning based tools to predict specific protein characteristics important to hemoglobin, and then model them to known life history traits per species.
+
+<br>
+
 ## MSc Project
 
 My thesis is concerning the different factors that impact antimicrobial resistance in livestock production system. In a beef cattle feedlot system, how do broad categories of antimicrobial use impact the microbiome, resistome (all resistance genes), and mobilome (all mobile genetic elements)? Then I will look at the different factors present in comparing three livestock production systems to each other (i.e., bovine, swine, and poultry). Can host species account for all differences, if there are any? Or do management practices contribute to the overall microbiome, resistome, and/or mobilome changes?

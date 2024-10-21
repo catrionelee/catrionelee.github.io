@@ -14,7 +14,7 @@ I am a Ph.D. student studying the evolution of hemoglobins in whales, dolphins, 
 
 ### Doctorate of Philosophy - <i>in progress</i>
 
-Biological Sciences, University of Manitoba, <i>Winnipeg, MMB</i>
+Biological Sciences, University of Manitoba, <i>Winnipeg, MB</i>
 <ul>
     Area of Research: Whale hemoglobin evolution and ancestral reconstruction
 </ul>

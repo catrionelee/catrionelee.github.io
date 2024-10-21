@@ -19,7 +19,7 @@ author:           catrionelee
 plugins: 
   - jekyll-paginate
 
-paginate:         4
+paginate:         6
 
 
 # Custom vars
