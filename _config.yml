@@ -16,10 +16,10 @@ timezone: America/Winnipeg
 
 title: Catrione Lee-Rocca # the main title
 
-tagline: Ph.D. Student in Protein Evolutionary Biology # it will display as the subtitle
+tagline: A blog of a life-long learner # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Personal webpage of Catrione Lee-Rocca. A Ph.D. student studying whale hemoglobin evolution.
+  Personal webpage of Catrione Lee-Rocca, a life-long learner in microbiology.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -88,7 +88,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: dark # [light | dark]
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
